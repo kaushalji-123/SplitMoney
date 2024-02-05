@@ -9,7 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-       "dark-cyan": "hsl(183, 100%, 15%)"
+       "dark-cyan": "hsl(183, 100%, 15%)",
+       "strong-cyan":"hsl(172, 67%, 45%)"
       },
     },
   },
